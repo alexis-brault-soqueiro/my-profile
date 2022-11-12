@@ -1,0 +1,20 @@
+h1{
+	color: white;
+	letter-spacing: 1px;
+	font-style: large;
+}
+p{
+	font-size: 25px;
+}
+
+body{
+	background-color: rgb(250);
+	text-decoration-color: white;
+	font-size: 18px;
+}
+
+h2{
+	text-decoration-color: white;
+	font-style: initial;
+	font-size: 25px
+}
